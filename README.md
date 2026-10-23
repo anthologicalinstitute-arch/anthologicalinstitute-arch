@@ -28,7 +28,7 @@ Research repositories will document methodologies, supporting sources, examples,
 
 ## Researcher
 
-**Charles A. Lane**  
+**Charles A. Lane Sr.**  
 Advanced Analytics & Mathematical Modeling Researcher, AIResearch Institute
 
 Research projects and publications will be linked here as they become available.
