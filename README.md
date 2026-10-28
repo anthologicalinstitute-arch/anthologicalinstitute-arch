@@ -26,9 +26,47 @@ Our research program focuses on evidence-quality methods, quantitative analysis,
 
 Research repositories will document methodologies, supporting sources, examples, validation status, and known limitations.
 
+## Repository Ownership
+
+| Role | Repository | Managed by | Purpose |
+|---|---|---|---|
+| Production | `[PRODUCTION REPO NAME: TBD]` | Marcus Vance, Research Registrant | Completed, documented, publicly released work |
+| Research | `[RESEARCH REPO NAME: TBD]` | Kurt Celvin, AAMMR™ | Exploratory methods and in-progress analysis |
+
+Work moves from the research repository to the production repository only after it meets the Production Completeness Checklist below.
+
+## Repository Index
+
+Status and validation entries reflect what is documented in each repository as of the "Last reviewed" date. "Not stated" means the repository does not currently say.
+
+| Repository | Area | Owner | Status | Validation status | Last reviewed |
+|---|---|---|---|---|---|
+| [qs-claims-analytics](https://github.com/anthologicalinstitute-arch/qs-claims-analytics) | Claims analysis, cost modeling, anomaly detection | TBD | Not stated | Not stated | 2026-10-28 |
+| [qs-fraud-detection](https://github.com/anthologicalinstitute-arch/qs-fraud-detection) | Anomaly detection, fraud-model evaluation | TBD | Not stated | Not stated | 2026-10-28 |
+| [qs-insurance-models](https://github.com/anthologicalinstitute-arch/qs-insurance-models) | Decision models, actuarial statistics | TBD | Not stated | Not stated | 2026-10-28 |
+| [qs-defense-resource-allocation](https://github.com/anthologicalinstitute-arch/qs-defense-resource-allocation) | Budget-data analysis, optimization | TBD | Not stated | Not stated | 2026-10-28 |
+| [qs-training-optimization](https://github.com/anthologicalinstitute-arch/qs-training-optimization) | Training schedules, resource allocation | TBD | Not stated | Unvalidated (exploratory) | 2026-10-28 |
+| [qs-small-business-optimization](https://github.com/anthologicalinstitute-arch/qs-small-business-optimization) | Routing, scheduling, cost optimization | TBD | Not stated | Not stated | 2026-10-28 |
+
+## Production Completeness Checklist
+
+A repository is listed as production-complete only when all items are met:
+
+- [ ] Public visibility confirmed
+- [ ] README states purpose, scope, and intended users
+- [ ] Methods, data sources, and dates documented
+- [ ] Assumptions and known limitations documented
+- [ ] Validation status stated (validated, partially validated, or unvalidated)
+- [ ] Reproducible: instructions or code sufficient to repeat results
+- [ ] License included
+- [ ] Reviewed and approved by the research owner
+- [ ] Release tag or version recorded
+
+Exploratory frameworks, including those using Quantum Sims™, are identified as unvalidated until appropriate testing supports stronger claims.
+
 ## Researcher
 
-**Charles A. Lane Sr.**  
+**Charles A. Lane Sr.**
 Advanced Analytics & Mathematical Modeling Researcher, AIResearch Institute
 
 Research projects and publications will be linked here as they become available.
